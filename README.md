@@ -4,9 +4,7 @@
 
 
 ## Запуск з допомогою команди: 
-
-###pip install PySimpleGUI
-
-### python gui.py
+###  pip install PySimpleGUI
+python gui.py
 
 
